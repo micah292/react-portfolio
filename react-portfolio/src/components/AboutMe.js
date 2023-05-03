@@ -1,18 +1,14 @@
 import "./AboutMeStyles.css";
 
 import React from "react";
-import { Link } from "react-router-dom";
 
 
 const AboutMe = () => {
     return (
         <div className="about">
             <div className="left">
-                <div className="headshot">
-                    <img className="headshot-img"
-                    src={HeadShot} alt="HeadShot"/> 
-                </div>
-                <Link to="/contact">
+
+                <Link to ="/contact">
                     <button className="btn">Contact</button>
                 </Link>
             </div>
