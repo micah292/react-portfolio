@@ -23,7 +23,7 @@ const Footer = () => {
                     </div>
                     <div className="email">
                         <h4> <FaMailBulk size={20} style={{ color: "#fff", marginRight: "2rem" }}/>
-                    sharifimicah17@gmail.com
+                    sharifimicah@gmail.com
                         </h4>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ const Footer = () => {
                       <a href="https://www.facebook.com/micah.sharifi">  
                         <FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
                       </a>
-                      <a href="https://github.com/micah292">
+                      <a href="https://www.linkedin.com/in/micah-sharifi/">
                         <FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
                       </a>
                       <a href="https://www.linkedin.com/in/micah-sharifi/">

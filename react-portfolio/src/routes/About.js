@@ -2,6 +2,7 @@ import React from "react";
 
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import HeroImg2 from "../components/HeroImg2";
 import AboutMe from "../components/AboutMe";
 
 const About = () => {
@@ -13,12 +14,15 @@ const About = () => {
   text={
     <div>
       <p>
-       As a fresh out of bootcamp student im ready to go all in and learn as much as i can as soon as i can!
+        As 
       </p>
       <br />
-      
       <p>
-       My end goals are to learn as much as i can and to be as quick as possibly can.
+        pop
+      </p>
+      <br />
+      <p>
+        goal
       </p>
     </div>
   }

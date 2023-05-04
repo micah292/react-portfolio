@@ -8,6 +8,21 @@
     height: 100%;
 }
 
+.headshot {
+    width: 20%;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding: 4rem;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.headshot img {
+    max-width: 100%;
+}
+
+
 .about .left{
     text-align: center;
     margin: auto;

@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Welcome to my React portfolio! This is a multipage application that showcases my work and information about me as a web developer.
 
-## Available Scripts
+## Table of Contents [TOC]
+ 
+ - Description
+ - Installation
+ - Usage
+ - Techonologies Used
+ - Screen Shots and Link
 
-In the project directory, you can run:
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This portfolio project is built using React and deployed on GitHub Pages. It features a header with navigation, pages for About, Projects, Contact, and a footer with links to my social media profiles. The navigation allows users to switch between different pages of the portfolio without reloading the page.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+In the About section, users can learn more about me as a web developer. They'll see a recent photo or avatar of me and a short bio describing my experience and interests in web development.
 
-### `npm test`
+In the Projects section, users can view titled images of six of my applications, each with a link to the deployed application and a link to the corresponding GitHub repository.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In the Contact section, users can fill out a form to get in touch with me. The form includes fields for their name, email address, and message. If the user attempts to submit the form without entering information into one or more required fields, they'll receive a notification prompting them to fill out the missing fields.
 
-### `npm run build`
+In the Resume section, users can view a list of my proficiencies and download my resume.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The site is designed with a mobile-first approach and features a custom color palette and typography that's easy on the eyes. The use of animations and React component libraries adds an extra layer of interactivity and engagement for potential employers and collaborators.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Thanks for checking out my portfolio!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+To run this project on your local machine, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone this repository onto your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run npm install to install the required dependencies.
+4. Run npm start to start the development server.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Once you have the project running, you can view it in your web browser at http://localhost:3000.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The default page that will load is the "About" page, which displays a photo of me and a short bio. The navigation at the top of the page allows you to switch between different pages of the portfolio, including the Projects page, which showcases my past work.
 
-## Learn More
+## Techonologies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This portfolio project is built using the following technologies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- React
+- JavaScript
+- CSS
+- HTML
 
-### Code Splitting
+## Screen Shots and Link to application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+https://holliesundra.github.io/Hollie-Sundra-Portfolio/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<img width="1867" alt="Homepage" src="https://user-images.githubusercontent.com/106099150/235329659-73048af1-1cbe-426b-acc9-e75819bce8e8.png">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<img width="1863" alt="Projectspage" src="https://user-images.githubusercontent.com/106099150/235329681-40889afd-3884-483d-a162-59ae0974ce06.png">
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<img width="1861" alt="Aboutpage" src="https://user-images.githubusercontent.com/106099150/235329684-18988ae9-c8e3-44e6-9246-c11490951caa.png">
+
+
+
+<img width="1861" alt="Contactpage" src="https://user-images.githubusercontent.com/106099150/235329690-150f8617-b5a3-436e-945a-dd64f23e6349.png">
+
+
