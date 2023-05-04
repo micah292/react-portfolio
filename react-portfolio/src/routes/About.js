@@ -14,15 +14,15 @@ const About = () => {
   text={
     <div>
       <p>
-        As 
+        As a fresh graduate of the bootcamp im excited to see where i land next. It might have been difficult bbut very excited to continue my learning and propersity in full stack coding.
       </p>
       <br />
       <p>
-        pop
+        When im not working, i'm usually home with the family. Sometimes keeping things simple is the best way.
       </p>
       <br />
       <p>
-        goal
+        My goals are to broaden my understanding of web development as a whole.
       </p>
     </div>
   }
